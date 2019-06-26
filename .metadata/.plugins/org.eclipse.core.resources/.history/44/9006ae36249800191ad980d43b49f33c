@@ -1,0 +1,5 @@
+package com.sarariman.designpattern.mini;
+
+public class Duck {
+
+}

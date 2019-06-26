@@ -1,0 +1,7 @@
+package com.sarariman.designpattern.mini;
+
+public class MallardDuck extends Duck {
+	
+	
+
+}

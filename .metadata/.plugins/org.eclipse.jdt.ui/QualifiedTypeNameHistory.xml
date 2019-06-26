@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.inter.QuackBehavior"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.MallardDuck"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.inter.FlyBehavior"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.interImpl.Quack"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.interImpl.FlyWithWings"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.Duck"/>
+</qualifiedTypeNameHistroy>
