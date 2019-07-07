@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="WorkbenchPreferenceDialogSettings">
-		<item value="374" key="DIALOG_X_ORIGIN"/>
-		<item value="8" key="DIALOG_Y_ORIGIN"/>
+		<item key="DIALOG_X_ORIGIN" value="374"/>
+		<item key="DIALOG_Y_ORIGIN" value="9"/>
 	</section>
 	<section name="org.eclipse.ui.internal.QuickAccess">
-		<item value="494" key="dialogHeight"/>
-		<item value="1025" key="dialogWidth"/>
+		<item key="dialogHeight" value="494"/>
+		<item key="dialogWidth" value="1025"/>
 		<list key="textEntries">
 		</list>
 		<list key="orderedElements">
@@ -17,7 +17,7 @@
 		</list>
 	</section>
 	<section name="NewWizardAction">
-		<item value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard" key="NewWizardSelectionPage.STORE_SELECTED_ID"/>
+		<item key="NewWizardSelectionPage.STORE_SELECTED_ID" value="org.eclipse.m2e.core.wizards.Maven2ProjectWizard"/>
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.m2e"/>
 		</list>

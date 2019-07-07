@@ -1,0 +1,20 @@
+package com.sarariman.observer.serviceImpl;
+
+import com.sarariman.observer.service.DisplayElement;
+import com.sarariman.observer.service.Observer;
+
+public class CurrentCoditionsDisplay implements Observer, DisplayElement {
+
+	@Override
+	public void display() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void update(float temperature, float humidity, float pressure) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

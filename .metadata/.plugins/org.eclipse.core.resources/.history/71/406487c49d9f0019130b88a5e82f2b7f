@@ -1,0 +1,18 @@
+package com.sarariman.observer.serviceImpl;
+
+import com.sarariman.observer.service.DisplayElement;
+import com.sarariman.observer.service.Observer;
+
+public class CurrentCoditionsDisplay implements Observer, DisplayElement {
+	
+	
+
+	public void display() {
+
+	}
+
+	public void update(float temperature, float humidity, float pressure) {
+
+	}
+
+}

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
-<typeInfo handle="=mini/src\/main\/java&lt;com.sarariman.designpattern.mini.inter{FlyBehavior.java[FlyBehavior" modifiers="513" timestamp="1561562255036"/>
-<typeInfo handle="=mini/src\/main\/java&lt;com.sarariman.designpattern.mini.inter{QuackBehavior.java[QuackBehavior" modifiers="513" timestamp="1561561945795"/>
+<typeInfo handle="=mini/src\/main\/java&lt;com.sarariman.designpattern.mini.inter{QuackBehavior.java[QuackBehavior" modifiers="513" timestamp="1561644156271"/>
+<typeInfo handle="=mini/src\/main\/java&lt;com.sarariman.designpattern.mini.inter{FlyBehavior.java[FlyBehavior" modifiers="513" timestamp="1561643985323"/>
+<typeInfo handle="=mini/src\/main\/java&lt;com.sarariman.observer.service{Subject.java[Subject" modifiers="513" timestamp="1562382052500"/>
+<typeInfo handle="=mini/src\/main\/java&lt;com.sarariman.observer.service{Observer.java[Observer" modifiers="513" timestamp="1562382250257"/>
+<typeInfo handle="=mini/src\/main\/java&lt;com.sarariman.observer.service{DisplayElement.java[DisplayElement" modifiers="513" timestamp="1562382087595"/>
 </typeInfoHistroy>

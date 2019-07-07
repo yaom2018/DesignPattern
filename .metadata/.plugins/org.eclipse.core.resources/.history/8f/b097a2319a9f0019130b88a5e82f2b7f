@@ -1,0 +1,10 @@
+package com.sarariman.observer.service;
+
+public interface Subject {
+	
+	public void registerObserver(Observer o);
+	
+	
+	
+
+}

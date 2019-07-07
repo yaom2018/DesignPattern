@@ -1,0 +1,28 @@
+package com.sarariman.observer.serviceImpl;
+
+import com.sarariman.observer.service.Observer;
+import com.sarariman.observer.service.Subject;
+
+public class WeatherData implements Subject {
+	
+	private ArrayList observers;
+
+	@Override
+	public void registerObserver(Observer o) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void removeObserver(Observer o) {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void notifyObserver() {
+		// TODO Auto-generated method stub
+
+	}
+
+}

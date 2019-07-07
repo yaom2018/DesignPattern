@@ -1,0 +1,13 @@
+package com.sarariman.observer.serviceImpl;
+
+public class WeatherStation {
+	
+	public static void main(String[] args) {
+		WeatherData weatherData = new WeatherData();
+		
+		CurrentCoditionsDisplay currentCoditionsDisplay = new CurrentCoditionsDisplay(weatherData);
+		
+		weatherData.setMeasurements(10, 20, 30.01F);
+	}
+
+}

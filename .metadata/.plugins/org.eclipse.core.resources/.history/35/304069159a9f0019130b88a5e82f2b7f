@@ -1,0 +1,5 @@
+package com.sarariman.observer.service;
+
+public interface Observer {
+
+}

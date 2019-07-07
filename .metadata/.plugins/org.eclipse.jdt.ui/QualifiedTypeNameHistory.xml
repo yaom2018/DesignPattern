@@ -3,7 +3,11 @@
 <fullyQualifiedTypeName name="com.sarariman.designpattern.mini.inter.QuackBehavior"/>
 <fullyQualifiedTypeName name="com.sarariman.designpattern.mini.MallardDuck"/>
 <fullyQualifiedTypeName name="com.sarariman.designpattern.mini.inter.FlyBehavior"/>
-<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.interImpl.Quack"/>
 <fullyQualifiedTypeName name="com.sarariman.designpattern.mini.interImpl.FlyWithWings"/>
 <fullyQualifiedTypeName name="com.sarariman.designpattern.mini.Duck"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.interImpl.FlyNoWing"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.interImpl.Quack"/>
+<fullyQualifiedTypeName name="com.sarariman.designpattern.mini.interImpl.FlyRocketPowered"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="com.sarariman.observer.service.Subject"/>
 </qualifiedTypeNameHistroy>

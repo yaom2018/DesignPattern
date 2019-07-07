@@ -1,0 +1,9 @@
+package com.sarariman.observer.serviceImpl;
+
+public class WeatherStation {
+	
+	public static void main(String[] args) {
+				
+	}
+
+}
