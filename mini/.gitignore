@@ -52,4 +52,7 @@
 hs_err_pid*
 
 #folder
-/.metadata
+../.metadata/
+.metadata/  
+
+.gitignore
