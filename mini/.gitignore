@@ -9,6 +9,7 @@
 .settings
 .springBeans
 .sts4-cache
+.gitignore
 
 ### IntelliJ IDEA ###
 .idea
@@ -51,4 +52,4 @@
 hs_err_pid*
 
 #folder
-.metadata
+/.metadata
