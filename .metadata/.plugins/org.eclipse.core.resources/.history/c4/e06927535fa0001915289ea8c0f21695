@@ -1,0 +1,5 @@
+package com.sarariman.observer.util.service;
+
+public class WeatherData {
+
+}

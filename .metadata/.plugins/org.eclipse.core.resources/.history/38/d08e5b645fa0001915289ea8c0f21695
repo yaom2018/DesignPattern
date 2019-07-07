@@ -1,0 +1,13 @@
+package com.sarariman.observer.util.service;
+
+import java.util.Observable;
+
+/**
+ * 使用java自带观察者模式
+ * @author Atlas
+ *
+ */
+public class WeatherData extends Observable{
+	
+
+}
