@@ -2,11 +2,10 @@ package com.sarariman.designpattern.mini.interImpl;
 
 import com.sarariman.designpattern.mini.inter.FlyBehavior;
 
-public class FlyNoWing implements FlyBehavior {
+public class FlyRocketPowered implements FlyBehavior {
 
-	@Override
 	public void fly() {
-		System.out.println("i am not fly!");
+		System.out.println("i am a fly rocket");
 
 	}
 
